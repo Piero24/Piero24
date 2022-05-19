@@ -18,7 +18,12 @@
   
 </div>
 
+ <!--
+
 <img align="right" style="width:20rem; height:auto" src="https://i.imgur.com/AGQmxGe.gif"/>
+ 
+ -->
+
  
 <br/>
 
@@ -138,7 +143,7 @@
  <h3 align="center"><strong>Software & Tools</strong></h3>
   <p align="center">
     &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-FBA628.svg?logo=git&logoColor=white"></a
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-FBA628.svg?logo=git&logoColor=white"></a>
   </p>
  
  -->
