@@ -12,7 +12,7 @@
    University of Padua (🇮🇹).
 </h3>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+
 
 
 <!-- <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/programmer_gif.gif"/> -->
