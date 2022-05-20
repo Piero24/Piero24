@@ -201,7 +201,6 @@
 ------
 
 <br/>
-Credit: <a href="https://github.com/Piero24">Piero24</a>
-<br/>
-Last Edited on: 14/05/2022
+Credit: <a href="https://github.com/Piero24">Piero24</a> 
+Last Edited on: May-20-2022
 <p align="right"><a href="#top">⇧</a></p>
