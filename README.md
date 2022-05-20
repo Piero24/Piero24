@@ -166,7 +166,7 @@
 
 <p align="center">
   <a href="https://www.pietrobonandrea.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/Logo_sito.png"  width="30" height="30" align="center">
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_sito.png"  width="30" height="30" align="center">
   </a>  •
   <a href="https://twitter.com/pietrobonandrea" target="_blank"> 
     <img src="https://i.imgur.com/GOWz3WV.png"  width="30" height="30" align="center">
