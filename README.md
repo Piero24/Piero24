@@ -169,19 +169,19 @@
     <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_sito.png"  width="30" height="30" align="center">
   </a>  •
   <a href="https://twitter.com/pietrobonandrea" target="_blank"> 
-    <img src="https://i.imgur.com/GOWz3WV.png"  width="30" height="30" align="center">
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_Twitter.png"  width="30" height="30" align="center">
   </a>  •
   <a href="https://github.com/Piero24" target="_blank"> 
-    <img src="https://i.imgur.com/xSz3Iba.png"  width="30" height="30" align="center">
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_github.png"  width="30" height="30" align="center">
   </a>  •
   <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
-    <img src="https://i.imgur.com/OSQqq1E.png"  width="30" height="30" align="center">
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
   </a>  
 </p>
 
 <br/>
 
-----https://i.imgur.com/tJkDgNo.png
+----
 
 <br/>
 
