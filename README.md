@@ -8,7 +8,7 @@
 
 <h3 font-size="20" align="center">
   A computer engineering student at the 
-  <img src="https://i.imgur.com/wKQlKe7.png"  width="30" height="30" align="center"/>
+  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/Logo_UNIPD.png"  width="30" height="30" align="center"/>
    University of Padua (🇮🇹).
 </h3>
 
