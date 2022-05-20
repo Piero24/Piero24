@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/>
    University of Padua (🇮🇹).
   <br/>
+  <br/>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
   <br/>
 </h3>
