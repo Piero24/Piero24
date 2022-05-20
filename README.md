@@ -155,7 +155,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24" alt="piero24" /> -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24&right_color=FBA628" alt="piero24" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24&right_color=orange" alt="piero24" />
 <br/>
 <br/>
   
