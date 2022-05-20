@@ -152,10 +152,9 @@
 <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=FBA628" alt="piero24"/>
 <br/>
 <br/>
-  
-[![](https://github-readme-stats.vercel.app/api?username=piero24&show_icons=true&theme=slateorange&hide_border=true&locale=en)](https://github.com/piero24)
-[![](https://github-readme-streak-stats.herokuapp.com?user=piero24&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/piero24)
-[![](https://activity-graph.herokuapp.com/graph?username=piero24&bg_color=35393E&color=FBA628&line=FBA628&point=FFFFFF&area_color=FBA628&hide_border=true&area=true)](https://github.com/piero24)
+<img src="https://github-readme-stats.vercel.app/api?username=piero24&show_icons=true&theme=slateorange&hide_border=true&locale=en" alt="piero24"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=piero24&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="piero24"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=piero24&bg_color=35393E&color=FBA628&line=FBA628&point=FFFFFF&area_color=FBA628&hide_border=true&area=true)](https://github.com/piero24" alt="piero24"/>
 </div>
 
 <br/>
