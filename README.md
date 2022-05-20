@@ -1,21 +1,21 @@
 <div id="top"></div>
 
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/hacker2.png"/>
+  <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Pietrobon Andrea<img width="30px" src="https://raw.githubusercontent.com/Piero24/Piero24/master/wave.gif"></h1>
+<h1 align="center">Hi, I'm Pietrobon Andrea<img width="30px" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif"></h1>
 
 <h3 font-size="20" align="center">
   A computer engineering student at the 
-  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/Logo_UNIPD.png"  width="30" height="30" align="center"/>
+  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/>
    University of Padua (🇮🇹).
 </h3>
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
 
 
-<!-- <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/programmer_gif.gif"/> -->
+<!-- <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/programmer_gif.gif"/> -->
 <!-- <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" /> -->
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
  
