@@ -12,10 +12,8 @@
    University of Padua (🇮🇹).
 </h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
-    
-</div>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+
 
 <!-- <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/programmer_gif.gif"/> -->
 <!-- <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" /> -->
@@ -168,7 +166,7 @@
 
 <p align="center">
   <a href="https://www.pietrobonandrea.com/" target="_blank"> 
-    <img src="https://i.imgur.com/tJkDgNo.png"  width="30" height="30" align="center">
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/Logo_sito.png"  width="30" height="30" align="center">
   </a>  •
   <a href="https://twitter.com/pietrobonandrea" target="_blank"> 
     <img src="https://i.imgur.com/GOWz3WV.png"  width="30" height="30" align="center">
@@ -183,7 +181,7 @@
 
 <br/>
 
-----
+----https://i.imgur.com/tJkDgNo.png
 
 <br/>
 
