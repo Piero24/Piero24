@@ -151,8 +151,8 @@
 <h2 align="center" style="margin: 5px 10px;">🔥 Github stats: 🔥</h2>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24&right_color=orange" alt="piero24" /> -->
-<img src="https://badges.pufler.dev/years/piero24&color=FBA628" alt="piero24" />
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24&right_color=orange" alt="piero24"/> -->
+<img src="https://badges.pufler.dev/years/piero24&color=orange" alt="piero24"/>
 <br/>
 <br/>
   
