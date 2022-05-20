@@ -23,8 +23,6 @@
 <img align="right" style="width:20rem; height:auto" src="https://i.imgur.com/AGQmxGe.gif"/>
  
  -->
-
-<img align="right" style="width:20rem; height:auto" src="https://i.imgur.com/AGQmxGe.gif"/>
  
 <br/>
 
