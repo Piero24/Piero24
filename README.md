@@ -18,11 +18,9 @@
   
 </div>
 
- <!--
-
-<img align="right" style="width:20rem; height:auto" src="https://i.imgur.com/AGQmxGe.gif"/>
- 
- -->
+<!-- <img align="right" style="width:20rem; height:auto" src="https://i.imgur.com/AGQmxGe.gif"/> -->
+<!-- <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" /> -->
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
  
 <br/>
 
@@ -155,8 +153,6 @@
 <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24&right_color=orange" alt="piero24" /> -->
 <img src="https://badges.pufler.dev/years/piero24&color=FBA628" alt="piero24" />
-<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" />
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=8723227" alt="piero24 stackoverflow" />
 <br/>
 <br/>
   
