@@ -10,13 +10,15 @@
   A computer engineering student at the 
   <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/>
    University of Padua (🇮🇹).
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
-  
+  <br/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+  <br/>
 </h3>
 
 <!--
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
  -->
 
 <!-- <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/programmer_gif.gif"/> -->
