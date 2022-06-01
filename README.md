@@ -4,7 +4,7 @@
   <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Pietrobon Andrea<img width="10px" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif"></h1>
+<h1 align="center">Hi, I'm Pietrobon Andrea<img width="30px" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif"></h1>
 
 <h3 font-size="20" align="center">
   A computer engineering student at the 
