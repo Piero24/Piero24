@@ -38,9 +38,6 @@
 
 - 💬 Let's talk about **Data Structures and Algorithms 😆**
 
-- 📜 **"I dettagli fanno la perfezione, ma la perfezione non è un dettaglio".** L. Da vinci
-
-
 <br/>
 
 ---
