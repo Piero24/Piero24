@@ -54,7 +54,11 @@
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C-language" src="https://img.shields.io/badge/C%20-FBA628.svg?logo=c&logoColor=white">
-  </a> 
+  </a>
+  &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C%20-FBA628.svg?logo=c++&logoColor=white">
+  </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-35393E.svg?logo=java&logoColor=white">
