@@ -57,7 +57,7 @@
   </a>
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%20-FBA628.svg?logo=c++&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-FBA628.svg?logo=c%2B%2B&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
