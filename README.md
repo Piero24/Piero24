@@ -30,7 +30,7 @@
 
 - 🎋 I’m currently learning **Matlab**
 
-- 🤝 I'm interest in **Data Science** and **AI** and **ML**
+- 🤝 I'm interest in **Machine Learning** and **Deep Learning**
 
 - 📚 I’m looking to collaborate on **My First Framework**
 
