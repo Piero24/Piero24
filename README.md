@@ -95,8 +95,4 @@
 
 <br/>
 
-**Credit:** [@Piero24](https://github.com/Piero24)
-
-**Last Edited on:** May-20-2022
-
 <p align="right"><a href="#top">⇧</a></p>
