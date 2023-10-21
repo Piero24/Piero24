@@ -1,20 +1,3 @@
-<div id="top"></div>
-
-<p align="center">
-  <img style="width:100px; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
-</p>
-
-<h1 align="center">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
-
-<h3 align="center">
-  Computer Engineering Master's Degree Student at the 
-  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/> University of Padua (🇮🇹).
-  <br/>
-  <br/>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
-  <br/>
-</h3>
-
 <!--
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
