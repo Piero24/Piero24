@@ -59,7 +59,7 @@
 <br/>
 
 <br/>
-<h2 align="center" style="color: inherit !important; ><strong>📱 You can find me here 📱</strong></h2>
+<h2 align="center" style="color: inherit !important;" ><strong>📱 You can find me here 📱</strong></h2>
 
 <br/>
 
