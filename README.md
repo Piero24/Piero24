@@ -12,15 +12,14 @@
   <img style="width:100px; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
+<h1 align="center" style="color: inherit !important;">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
 
-<h3 align="center">
+<h3 align="center" style="color: inherit !important;">
   Computer Engineering Master's Degree Student at the 
-  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/> University of Padua (🇮🇹).
+  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/> University of Padua (🇮🇹)
   <br/>
   <br/>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
-  <br/>
 </h3>
 
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
@@ -45,7 +44,7 @@
 
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">🔥 Github stats: 🔥</h2>
+<h2 align="center" "style="color: inherit !important; margin: 5px 10px;">🔥 Github stats: 🔥</h2>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24?color=FBA628" alt="piero24"/> -->
@@ -60,7 +59,7 @@
 <br/>
 
 <br/>
-<h2 align="center"><strong>📱 You can find me here 📱</strong></h2>
+<h2 align="center" style="color: inherit !important; ><strong>📱 You can find me here 📱</strong></h2>
 
 <br/>
 
