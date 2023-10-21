@@ -43,6 +43,23 @@
 ---
 
 
+ <br/>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">🔥 Github stats: 🔥</h2>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=piero24.piero24?color=FBA628" alt="piero24"/> -->
+<!-- <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=FBA628" alt="piero24"/> -->
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=piero24&show_icons=true&theme=slateorange&hide_border=true&locale=en" alt="piero24"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=piero24&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="piero24"/>
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=piero24&bg_color=35393E&color=FBA628&line=FBA628&point=FFFFFF&area_color=FBA628&hide_border=true&area=true" alt="piero24"/> -->
+</div>
+
+<br/>
+
 <br/>
 <h2 align="center"><strong>📱 You can find me here 📱</strong></h2>
 
