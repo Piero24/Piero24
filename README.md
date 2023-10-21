@@ -43,6 +43,7 @@
 ---
 
 <br/>
+<!--
 
 <h2 align="center"><strong>🛠️ My Skills 🛠️</strong></h2>
 
@@ -167,6 +168,7 @@
 
 <br/>
 
+-->
 <h2 align="center"><strong>📱 You can find me here 📱</strong></h2>
 
 <br/>
