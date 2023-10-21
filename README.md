@@ -1,18 +1,17 @@
 <div id="top"></div>
 
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
+  <img style="width:100px; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Pietrobon Andrea<img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
+<h1 align="center">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
 
-<h3 font-size="20" align="center">
-  Computer Engineering Master's degree student at the 
-  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/>
-   University of Padua (🇮🇹).
+<h3 align="center">
+  Computer Engineering Master's Degree Student at the 
+  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/> University of Padua (🇮🇹).
   <br/>
   <br/>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
   <br/>
 </h3>
 
@@ -20,17 +19,34 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
- -->
+<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" />
 
-<!-- <img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/programmer_gif.gif"/> -->
-<!-- <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" /> -->
+-->
+
+<div id="top"></div>
+
+<p align="center">
+  <img style="width:100px; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
+</p>
+
+<h1 align="center">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
+
+<h3 align="center">
+  Computer Engineering Master's Degree Student at the 
+  <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/> University of Padua (🇮🇹).
+  <br/>
+  <br/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+  <br/>
+</h3>
+
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
- 
+
 <br/>
 
 - 🎋 I’m currently learning **Matlab**
 
-- 🤝 I'm interest in **Machine Learning** and **Deep Learning**
+- 🤝 I'm interested in **Machine Learning** and **Deep Learning**
 
 - 📚 I’m looking to collaborate on **My First Framework**
 
@@ -42,8 +58,8 @@
 
 ---
 
+<br/>
 
- <br/>
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">🔥 Github stats: 🔥</h2>
