@@ -12,9 +12,9 @@
   <img style="width:100px; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/hacker2.png"/>
 </p>
 
-<h1 align="center" style="color: inherit !important;">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
+<h1 align="center">Hi, I'm Pietrobon Andrea <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/wave.gif" width="30" height="auto"/></h1>
 
-<h3 align="center" style="color: inherit !important;">
+<h3 align="center">
   Computer Engineering Master's Degree Student at the 
   <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/> University of Padua (🇮🇹)
   <br/>
@@ -59,7 +59,7 @@
 <br/>
 
 <br/>
-<h2 align="center" style="color: inherit !important;" ><strong>📱 You can find me here 📱</strong></h2>
+<h2 align="center"><strong>📱 You can find me here 📱</strong></h2>
 
 <br/>
 
