@@ -41,14 +41,23 @@
   <h2 align="center">Other Project I have worked on</h2>
 </p>
 <p>
-  <h3>📐 <strong>Mathematical Optimization of the Traveling Salesman Problem</strong>:
-    (<a href="https://github.com/deno750/TSP_Optimization">🔗 Code</a> |
-    <a href="http://159.89.0.117/">🕹️ Demo</a> |
-    <a href="https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf">📄 Paper</a>)
+  <h3>📐 <strong>AutoLoss-Zero: Objective functions in training neural networks</strong>:
+    (<a href="https://TO_ADD">📄 Paper</a>)
   </h3>
   <ul>
-    <li>Online platform that allows optimization of the Traveling Salesman Problem</li>
-    <li>Developed with Python, Flask, HTML5, Bootstrap 5, JavaScript, CPLEX, ansi C</li>
+    <li>AutoML method, for the detection of colon polyps</li>
+    <li>Developed with: Matlab, Deep Learning</li>
+  </ul>
+</p>
+<br/>
+<p>
+  <h3>✈️ <strong>BookFlights - Telegram bot for flight offers</strong>:
+    (<a href="https://github.com/piero24/BookFlights">🔗 Code</a> |
+    <a href="https://linktr.ee/bookflights">🕹️ Demo</a> )
+  </h3>
+  <ul>
+    <li>A telegram bot for each Italian region to see flight offers departing from airports in that region</li>
+    <li>Developed with: Python, SQLite3, <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a>, Airline companies API</li>
   </ul>
 </p>
 <br/>
@@ -65,14 +74,14 @@
 </p>
 <br/>
 <p>
-  <h3>📐 <strong>Mathematical Optimization of the Traveling Salesman Problem</strong>:
-    (<a href="https://github.com/deno750/TSP_Optimization">🔗 Code</a> |
-    <a href="http://159.89.0.117/">🕹️ Demo</a> |
-    <a href="https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf">📄 Paper</a>)
+  <h3>EMOJI <strong>NAME</strong>:
+    (<a href="LINK-CODE">🔗 Code</a> |
+    <a href="LINK-DEMO">🕹️ Demo</a> |
+    <a href="LINK-FILE">📄 Paper</a>)
   </h3>
   <ul>
-    <li>Online platform that allows optimization of the Traveling Salesman Problem</li>
-    <li>Developed with Python, Flask, HTML5, Bootstrap 5, JavaScript, CPLEX, ansi C</li>
+    <li>Brif explenation</li>
+    <li>Developed with: TECHNOLOGIES</li>
   </ul>
 </p>
 <br/>
