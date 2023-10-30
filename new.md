@@ -62,26 +62,25 @@
 </p>
 <br/>
 <p>
-  <h3>📐 <strong>Mathematical Optimization of the Traveling Salesman Problem</strong>:
-    (<a href="https://github.com/deno750/TSP_Optimization">🔗 Code</a> |
-    <a href="http://159.89.0.117/">🕹️ Demo</a> |
-    <a href="https://github.com/deno750/TSP_Optimization/raw/master/TSP_Optimization%20-%20Deronjic%20-%20Ivancich.pdf">📄 Paper</a>)
+  <h3>🍓 <strong>Food Recognition and Leftover Estimation</strong>:
+    (<a href="https://github.com/Piero24/Food-recognition-and-leftover-estimation">🔗 Code</a> |
+    <a href="http://TO-BE-ADDED">🕹️ Demo</a> |
+    <a href="https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf">📄 Paper</a>)
   </h3>
   <ul>
-    <li>Online platform that allows optimization of the Traveling Salesman Problem</li>
-    <li>Developed with Python, Flask, HTML5, Bootstrap 5, JavaScript, CPLEX, ansi C</li>
+    <li>Food recognition and leftover estimation in C++ and openCV with 95% more accurate performance than the previous version</li>
+    <li>Developed with: C++, Cmake, OpenCV</li>
   </ul>
 </p>
 <br/>
 <p>
-  <h3>EMOJI <strong>NAME</strong>:
-    (<a href="LINK-CODE">🔗 Code</a> |
-    <a href="LINK-DEMO">🕹️ Demo</a> |
+  <h3>🐙 <strong>HSNet+: Enhancing Polyp Segmentation with Region-wise Loss</strong>:
+    (<a href="https://github.com/Piero24/lossFuncition-4SN">🔗 Code</a> |
     <a href="LINK-FILE">📄 Paper</a>)
   </h3>
   <ul>
-    <li>Brif explenation</li>
-    <li>Developed with: TECHNOLOGIES</li>
+    <li>Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation</li>
+    <li>Developed with: Python, PyTorch, OpenCV, Numpy</li>
   </ul>
 </p>
 <br/>
@@ -105,6 +104,7 @@
 <br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
+  <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=FBA628" alt="piero24" />
 </p>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr align="center">
