@@ -13,6 +13,9 @@
     University of Padua (🇮🇹)
   </h3>
 </p>
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+</p>
 <br/>
 <br/>
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
