@@ -54,12 +54,16 @@
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
 <p align="center">
   <!-- https://github.com/Jurredr/github-widgetbox -->
   <!-- <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=carbon"/> -->
   <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=aether"/>
 </p>
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
+<br/>
+<br/>
 <br/>
 <p align="center">
   <h2 align="center">Other Project I have worked on<a href=""> </a></h2>
@@ -99,12 +103,11 @@
 -->
 
 <br/>
-<!--
 <br/>
 <br/>
--->
+<br/>
 <p align="center">
-  <h2 align="center">🔥 Github stats 🔥<a href=""></a></h2>
+  <h2 align="center">Github stats<a href=""></a></h2>
 </p>
 <br/>
 <!-- 
@@ -124,60 +127,67 @@
   </tr>
 </table>
 <br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
   <h2 align="center">Some technologies that I have used<a href=""></a></h2>
 </p>
+<br/>
+<br/>
 <!-- [https://github.com/Jurredr/github-widgetbox](https://github.com/tandpfun/skill-icons) -->
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr align="center">
+    <td><strong>Software</strong></td>
+    <td><strong>Tools</strong></td>
+    <td><strong>Language</strong></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,ai,netlify,ps,raspberrypi,vscode,figma" align="center"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap,cmake,firebase,pytorch,ros,selenium,tensorflow,docker" align="center"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,css,go,html,js,matlab,mysql,py" align="center"/>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite,swift,c,java" width="50%" align="center"/>
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ai,netlify,ps,raspberrypi,vscode,figma" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cmake,firebase,pytorch,ros,selenium,tensorflow,docker,java" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,go,html,js,matlab,mysql,py,sqlite,swift,c,java" />
-  </a>
+  <h2 align="center"><strong>You can find me here<a href=""></a></strong></h2>
 </p>
 <br/>
 <p align="center">
-  <h2 align="center"><strong>📱 You can find me here 📱<a href=""></a></strong></h2>
-</p>
-<br/>
-<p align="center">
-  <a href="https://www.pietrobonandrea.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_sito.png"  width="30" height="30" align="center">
-  </a>  •
-  <a href="https://twitter.com/pietrobonandrea" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_Twitter.png"  width="30" height="30" align="center">
-  </a>  •
-  <a href="https://github.com/Piero24" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_github.png"  width="30" height="30" align="center">
-  </a>  •
-  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
-  </a>  •
-  
-  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
-    <img src="https://pbs.twimg.com/media/F3hcz5PW4AA0ZnM.jpg:large"  width="30%" height="30%" align="center">
-  </a>  •
-  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
-  </a>  •
-  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
-  </a>  •
-  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
-  </a>  •
-
-
-
-
+  <a href="https://www.pietrobonandrea.com/"> 
+    <img src="https://github.com/Piero24/Piero24/blob/main/social/Safari.png"  width="5%" align="center">
+  </a>
+  &nbsp;•
+  <a href="https://twitter.com/pietrobonandrea"> 
+    <img src="https://github.com/Piero24/Piero24/blob/main/social/X.png"  width="5%" align="center">
+  </a>
+  &nbsp;•
+  <a href="https://github.com/Piero24"> 
+    <img src="https://github.com/Piero24/Piero24/blob/main/social/GitHub.png"  width="5%" align="center">
+  </a>
+  &nbsp;•
+  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/"> 
+    <img src="https://github.com/Piero24/Piero24/blob/main/social/Linkedin.png"  width="5%" align="center">
+  </a>
 </p>
 <br/>
 <br/>
