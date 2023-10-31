@@ -16,10 +16,10 @@
     University of Padua (🇮🇹)
   </h3>
 </p>
-<p align="center">
-  <!--
+<!--
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
-  -->
+-->
+<p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=CF41AE&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
 </p>
 <!--
@@ -49,7 +49,8 @@
 <br/>
 <p align="center">
   <!-- https://github.com/Jurredr/github-widgetbox -->
-  <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=carbon"/>
+  <!-- <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=carbon"/> -->
+  <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=aether"/>
 </p>
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
@@ -118,14 +119,20 @@
   <h2 align="center">🔥 Github stats 🔥</h2>
 </p>
 <br/>
-<p align="center">
+<!-- 
   <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=FBA628&style=flat" alt="piero24" />
   <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=FBA628" alt="piero24" />
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=CF41AE&style=flat" alt="piero24" />
+  <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=CF41AE" alt="piero24" />
 </p>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr align="center">
-    <td><img src="https://github-readme-stats.vercel.app/api?username=piero24&show_icons=true&theme=slateorange&hide_border=true&locale=en" alt="piero24"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=piero24&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="piero24"/></td>
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=piero24&show_icons=true&theme=slateorange&hide_border=true&locale=en" alt="piero24"/></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=piero24&show_icons=true&theme=jolly&hide_border=true&locale=en" alt="piero24"/></td>
+    <!-- <td><img src="https://github-readme-streak-stats.herokuapp.com?user=piero24&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="piero24"/></td> -->
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=piero24&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="piero24"/></td>
   </tr>
 </table>
 <br/>
