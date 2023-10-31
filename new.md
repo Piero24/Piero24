@@ -20,7 +20,7 @@
   <h3 align="center">
     Computer Engineering Master's Degree Student at the 
     <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/>
-    University of Padua (🇮🇹)
+    University of Padua (🇮🇹) <a href=""></a>
   </h3>
 </p>
 <!--
@@ -62,7 +62,7 @@
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
 <p align="center">
-  <h2 align="center">Other Project I have worked on</h2>
+  <h2 align="center">Other Project I have worked on<a href=""></a></h2>
 </p>
 <p>
   <h3>📐 <strong>AutoLoss-Zero: Objective functions in training neural networks</strong>:
@@ -123,7 +123,7 @@
 <br/>
 -->
 <p align="center">
-  <h2 align="center">🔥 Github stats 🔥</h2>
+  <h2 align="center">🔥 Github stats 🔥<a href=""></a></h2>
 </p>
 <br/>
 <!-- 
@@ -144,7 +144,7 @@
 </table>
 <br/>
 <p align="center">
-  <h2 align="center">Some technologies that I have used</h2>
+  <h2 align="center">Some technologies that I have used<a href=""></a></h2>
 </p>
 <!-- [https://github.com/Jurredr/github-widgetbox](https://github.com/tandpfun/skill-icons) -->
 <p align="center">
@@ -164,7 +164,7 @@
 </p>
 <br/>
 <p align="center">
-  <h2 align="center"><strong>📱 You can find me here 📱</strong></h2>
+  <h2 align="center"><strong>📱 You can find me here 📱<a href=""></a></strong></h2>
 </p>
 <br/>
 <p align="center">
