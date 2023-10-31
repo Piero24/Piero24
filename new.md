@@ -44,7 +44,7 @@
   <br>
   <li>🤝 I'm interested in <strong>Machine Learning</strong> and <strong>Deep Learning</strong></li>
   <br>
-  <li>📚 Collaboration is the <strong>Key</strong> for building great things</li>
+  <li>📚 Collaboration is the <strong>Key</strong> for building great things!</li>
   <br>
   <li>👨🏽‍💻 All of my projects are available at <a href="https://github.com/Piero24">@Piero24</a></li>
   <br>
