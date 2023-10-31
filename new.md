@@ -5,10 +5,17 @@
 </p>
 <p align="center">
   <h1 align="center">
-    Hi, I'm Pietrobon Andrea 
-    <img style="width:100px; height:auto" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/> 
+    <strong> Hi, I'm <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/">Pietrobon Andrea</a></strong>
+    <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
   </h1>
 </p>
+<!--
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/">Linkedin</a> •
+  <a href="LINK-TO-ADD">Scholar</a> •
+  <a href="LINK-TO-ADD">GitLab</a>
+</p>
+-->
 <p align="center">
   <h3 align="center">
     Computer Engineering Master's Degree Student at the 
@@ -33,7 +40,7 @@
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
 <br/>
 <ul>
-  <li>🎋 I’m currently learning <strong>Matlab</strong></li>
+  <li>🎋 I’m currently learning <strong>Ros</strong></li>
   <br>
   <li>🤝 I'm interested in <strong>Machine Learning</strong> and <strong>Deep Learning</strong></li>
   <br>
