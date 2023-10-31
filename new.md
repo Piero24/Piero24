@@ -3,21 +3,11 @@
 <p align="center">
   <img style="width:100%; height:auto" src="https://raw.githubusercontent.com/Piero24/Piero24/master/gif/CityCrop.gif"/>
 </p>
-
-  <!--
-  <h1 align="center">Hi, I'm Pietrobon Andrea <img style="width:100px; height:auto" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/> </h1>
-  
-  https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif
-
-  https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif
-
-  https://octodex.github.com
-  -->
-  
 <p align="center">
-
-  # I'm Pietrobon Andrea &nbsp; <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px" />
-
+  <h1 align="center">
+    Hi, I'm Pietrobon Andrea 
+    <img style="width:100px; height:auto" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"/> 
+  </h1>
 </p>
 <p align="center">
   <h3 align="center">
@@ -27,8 +17,17 @@
   </h3>
 </p>
 <p align="center">
+  <!--
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
+  -->
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=CF41AE&center=true&lines=AI+%7C+ML+%7C+DP+Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things"/>
 </p>
+<!--
+  <br/>
+  <p align="center">
+    <img width="40%" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/> 
+  </p>
+-->
 <br/>
 <br/>
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
@@ -52,6 +51,7 @@
   <!-- https://github.com/Jurredr/github-widgetbox -->
   <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=carbon"/>
 </p>
+ <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
 <p align="center">
   <h2 align="center">Other Project I have worked on</h2>
@@ -167,10 +167,17 @@
     <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
   </a>  
 </p>
+<br/>
+<br/>
 <hr>
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="example" />
 </p>
+<!--
+  <br/>
+  <p align="center">
+    <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/> 
+  </p>
+-->
 <hr>
 <p align="right"><a href="#top">⇧</a></p>
