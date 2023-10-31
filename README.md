@@ -83,7 +83,7 @@
 <br/>
 
 🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](http://TO-BE-ADDED) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
-  - Food recognition and leftover estimation in C++ and openCV with 95% more accurate performance than the previous version
+  - Food recognition and leftover estimation with 95% more accurate performance than the previous version
   - Developed with: C++, Cmake, OpenCV
 
 <br/>
