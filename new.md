@@ -20,7 +20,7 @@
   <h3 align="center">
     Computer Engineering Master's Degree Student at the 
     <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/icon/Logo_UNIPD.png"  width="30" height="30" align="center"/>
-    University of Padua (🇮🇹) <a href=""></a>
+    University of Padua (🇮🇹)<a href=""> </a>
   </h3>
 </p>
 <!--
@@ -62,64 +62,45 @@
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
 <p align="center">
-  <h2 align="center">Other Project I have worked on<a href=""></a></h2>
-</p>
-<p>
-  <h3>📐 <strong>AutoLoss-Zero: Objective functions in training neural networks</strong>:
-    (<a href="https://TO_ADD">📄 Paper</a>)
-  </h3>
-  <ul>
-    <li>AutoML method, for the detection of colon polyps</li>
-    <li>Developed with: Matlab, Deep Learning</li>
-  </ul>
+  <h2 align="center">Other Project I have worked on<a href=""> </a></h2>
 </p>
 <br/>
-<p>
-  <h3>✈️ <strong>BookFlights - Telegram bot for flight offers</strong>:
-    (<a href="https://github.com/piero24/BookFlights">🔗 Code</a> |
-    <a href="https://linktr.ee/bookflights">🕹️ Demo</a> )
-  </h3>
-  <ul>
-    <li>A telegram bot for each Italian region to see flight offers departing from airports in that region</li>
-    <li>Developed with: Python, SQLite3, <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a>, Airline companies API</li>
-  </ul>
-</p>
+
+ 📐 **AutoLoss-Zero: Objective functions in training neural networks**: ([📄Paper](https://thesis.unipd.it/handle/20.500.12608/34548))
+  - AutoML method, for the detection of colon polyps
+  - Developed with: Matlab, Deep Learning
+
 <br/>
-<p>
-  <h3>🍓 <strong>Food Recognition and Leftover Estimation</strong>:
-    (<a href="https://github.com/Piero24/Food-recognition-and-leftover-estimation">🔗 Code</a> |
-    <a href="http://TO-BE-ADDED">🕹️ Demo</a> |
-    <a href="https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf">📄 Paper</a>)
-  </h3>
-  <ul>
-    <li>Food recognition and leftover estimation in C++ and openCV with 95% more accurate performance than the previous version</li>
-    <li>Developed with: C++, Cmake, OpenCV</li>
-  </ul>
-</p>
+
+ ✈️ **BookFlights - Telegram bot for flight offers**: ([🔗Code](https://github.com/piero24/BookFlights) | [🕹️Demo](https://linktr.ee/bookflights))
+  - A telegram bot for each Italian region to see flight offers departing from airports in that region
+  - Developed with: Python, SQLite3, [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI), Airline companies API</li>
+  
 <br/>
-<p>
-  <h3>🐙 <strong>HSNet+: Enhancing Polyp Segmentation with Region-wise Loss</strong>:
-    (<a href="https://github.com/Piero24/lossFuncition-4SN">🔗 Code</a> |
-    <a href="LINK-FILE">📄 Paper</a>)
-  </h3>
-  <ul>
-    <li>Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation</li>
-    <li>Developed with: Python, PyTorch, OpenCV, Numpy</li>
-  </ul>
-</p>
+
+🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](http://TO-BE-ADDED) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
+  - Food recognition and leftover estimation in C++ and openCV with 95% more accurate performance than the previous version
+  - Developed with: C++, Cmake, OpenCV
+
+<br/>
+
+🐙 **HSNet+: Enhancing Polyp Segmentation with Region-wise Loss**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [📄Paper](https://LINK))
+  - Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation
+  - Developed with: Python, PyTorch, OpenCV, Numpy
+
+<br/>
+
+<!--
+🍓 **Title**: ([🔗Code](https://LINK) | [🕹️Demo](https://LINK) | [📄Paper](https://LINK))
+  - Bullet 1
+  - Bullet 2 
+
+<br/>
+-->
+
 <br/>
 <!--
-<p>
-  <h3>EMOJI <strong>NAME</strong>:
-    (<a href="LINK-CODE">🔗 Code</a> |
-    <a href="LINK-DEMO">🕹️ Demo</a> |
-    <a href="LINK-FILE">📄 Paper</a>)
-  </h3>
-  <ul>
-    <li>Brif explenation</li>
-    <li>Developed with: TECHNOLOGIES</li>
-  </ul>
-</p>
+<br/>
 <br/>
 -->
 <p align="center">
@@ -132,7 +113,7 @@
 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piero24&label=Profile%20views&color=CF41AE&style=flat" alt="piero24" />
-  <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=CF41AE" alt="piero24" />
+  <img src="https://badges.pufler.dev/years/piero24?label=Years%20on%20GitHub&color=735BC1" alt="piero24" />
 </p>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr align="center">
@@ -179,7 +160,24 @@
   </a>  •
   <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
-  </a>  
+  </a>  •
+  
+  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
+    <img src="https://pbs.twimg.com/media/F3hcz5PW4AA0ZnM.jpg:large"  width="30%" height="30%" align="center">
+  </a>  •
+  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
+  </a>  •
+  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
+  </a>  •
+  <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/Piero24/Piero24/master/social/Logo_linkedin.png"  width="30" height="30" align="center">
+  </a>  •
+
+
+
+
 </p>
 <br/>
 <br/>
