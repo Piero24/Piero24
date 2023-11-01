@@ -1,9 +1,7 @@
 <!--
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FBA628&center=true&lines=AI+%7C+ML+%7C+DP++Enthusiast;Computer+Engineering+Student;Graphic+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8723227" alt="piero24 stackoverflow" />
-
 -->
 
 <div id="top"></div>
