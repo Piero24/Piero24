@@ -66,7 +66,7 @@
 <br/>
 <br/>
 <p align="center">
-  <h2 align="center">Other Project I have worked on<a href=""> </a></h2>
+  <h2 align="center">🛠️ Other Project I have worked on 🛠️<a href=""> </a></h2>
 </p>
 <br/>
 
@@ -107,7 +107,7 @@
 <br/>
 <br/>
 <p align="center">
-  <h2 align="center">Github stats<a href=""></a></h2>
+  <h2 align="center">📉 Github stats 📈<a href=""></a></h2>
 </p>
 <br/>
 <!-- 
@@ -131,7 +131,7 @@
 <br/>
 <br/>
 <p align="center">
-  <h2 align="center">Some technologies that I have used<a href=""></a></h2>
+  <h2 align="center">🧪 Some technologies that I have used 🧪<a href=""></a></h2>
 </p>
 <br/>
 <br/>
@@ -169,7 +169,7 @@
 <br/>
 <br/>
 <p align="center">
-  <h2 align="center"><strong>You can find me here<a href=""></a></strong></h2>
+  <h2 align="center"><strong>📬 You can find me here 📬<a href=""></a></strong></h2>
 </p>
 <br/>
 <p align="center">
