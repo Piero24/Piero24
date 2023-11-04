@@ -84,7 +84,7 @@
   
 <br/>
 
-🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](http://TO-BE-ADDED) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
+🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](https://github.com/Piero24/Food-recognition-and-leftover-estimation/tree/main/Results) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
   - Food recognition and leftover estimation with 95% more accurate performance than the previous version
   - Developed with: C++, Cmake, OpenCV
 
@@ -97,7 +97,7 @@
 <br/>
 
 <!--
-🍓 **Title**: ([🔗Code](https://LINK) | [🕹️Demo](https://LINK) | [📄Paper](https://LINK))
+✅ **Title**: ([🔗Code](https://LINK) | [🕹️Demo](https://LINK) | [📄Paper](https://LINK))
   - Bullet 1
   - Bullet 2 
 
