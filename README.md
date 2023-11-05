@@ -9,7 +9,6 @@
     <img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
   </h1>
 </p>
-
 <!--
 <p align="center">
   <a href="https://www.linkedin.com/in/andrea-pietrobon-4599a2105/">Linkedin</a> •
@@ -17,7 +16,6 @@
   <a href="LINK-TO-ADD">GitLab</a>
 </p>
 -->
-
 <p align="center">
   <h3 align="center">
     Computer Engineering Master's Degree Student at the 
