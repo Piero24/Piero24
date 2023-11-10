@@ -55,7 +55,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <p align="center">
   <!-- https://github.com/Jurredr/github-widgetbox -->
   <!-- <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=carbon"/> -->
@@ -195,7 +194,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="example" />
 </p>
-
 <!--
   <br/>
   <p align="center">
@@ -203,7 +201,8 @@
   </p>
   <br/>
 -->
-
 <hr>
 <p align="right"><a href="#top">⇧</a></p>
 <br/>
+<br/>
+
