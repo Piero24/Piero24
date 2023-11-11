@@ -40,7 +40,6 @@
 
 <br/>
 
-
 <div align="center">
 <h2 align="center" "style="color: inherit !important; margin: 5px 10px;">🔥 Github stats: 🔥</h2>
 <br/>
@@ -92,5 +91,6 @@
 ------
 
 <br/>
-
 <p align="right"><a href="#top">⇧</a></p>
+<br/>
+<br/>
