@@ -69,9 +69,15 @@
 </p>
 <br/>
 
- 📐 **AutoLoss-Zero: Objective functions in training neural networks**: ([📄Paper](https://thesis.unipd.it/handle/20.500.12608/34548))
-  - AutoML method, for the detection of colon polyps
-  - Developed with: Matlab, Deep Learning
+🐙 **HSNet+: Enhancing Polyp Segmentation with Region-wise Loss**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [📄Paper](https://LINK))
+  - Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation
+  - Developed with: Python, PyTorch, OpenCV, Numpy
+
+<br/>
+
+🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](https://github.com/Piero24/Food-recognition-and-leftover-estimation/tree/main/Results) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
+  - Food recognition and leftover estimation with 95% more accurate performance than the previous version
+  - Developed with: C++, Cmake, OpenCV
 
 <br/>
 
@@ -81,15 +87,9 @@
   
 <br/>
 
-🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](https://github.com/Piero24/Food-recognition-and-leftover-estimation/tree/main/Results) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
-  - Food recognition and leftover estimation with 95% more accurate performance than the previous version
-  - Developed with: C++, Cmake, OpenCV
-
-<br/>
-
-🐙 **HSNet+: Enhancing Polyp Segmentation with Region-wise Loss**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [📄Paper](https://LINK))
-  - Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation
-  - Developed with: Python, PyTorch, OpenCV, Numpy
+ 📐 **AutoLoss-Zero: Objective functions in training neural networks**: ([📄Paper](https://thesis.unipd.it/handle/20.500.12608/34548))
+  - AutoML method, for the detection of colon polyps
+  - Developed with: Matlab, Deep Learning
 
 <br/>
 
