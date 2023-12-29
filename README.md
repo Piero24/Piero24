@@ -100,6 +100,21 @@
 
 <br/>
 -->
+<!--
+<br/>
+<br/>
+<br/>
+<p align="center">
+  <h2 align="center">🛠️ Some of mine contribution 🛠️<a href=""> </a></h2>
+</p>
+<br/>
+
+🏠 **BigBear CasaOS**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [📄Paper](https://LINK))
+  - Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation
+  - Developed with: Python, PyTorch, OpenCV, Numpy
+
+<br/>
+-->
 
 <br/>
 <br/>
