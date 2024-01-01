@@ -71,7 +71,7 @@
 </p>
 <br/>
 
-🐙 **HSNet+: Enhancing Polyp Segmentation with Region-wise Loss**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [📄Paper](https://LINK))
+🐙 **HSNet+: Enhancing Polyp Segmentation with Region-wise Loss**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [📄Paper](https://github.com/Piero24/lossFuncition-4SN/blob/master/Pietrobon_Biffis.pdf))
   - Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation
   - Developed with: Python, PyTorch, OpenCV, Numpy
 
