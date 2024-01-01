@@ -60,7 +60,7 @@
 <p align="center">
   <!-- https://github.com/Jurredr/github-widgetbox -->
   <!-- <img style="width:60%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=carbon"/> -->
-  <img style="width:75%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=aether"/>
+  <img style="width:70%; height:auto" src="https://github-widgetbox.vercel.app/api/profile?username=Piero24&data=followers,repositories,stars,commits&theme=aether"/>
 </p>
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
