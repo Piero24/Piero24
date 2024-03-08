@@ -71,9 +71,16 @@
 </p>
 <br/>
 
+
 🚚 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/Piero24/TSP_Optimization) | [🕹️Demo](https://LINK) | [📄Paper](https://LINK))
   - Application of different Algorithm to optimize a TSP problem
   - Developed with: CPLEX, C, Cmake
+
+<br/>
+
+🤖 **Tiago Movement and Object Manipulation With ROS**: ([🔗Code](https://github.com/Piero24/Intelligent-Robotics_project_23-24) | [🕹️Demo](https://github.com/Piero24/Intelligent-Robotics_project_23-24/tree/main/Videos) | [📄Paper](https://github.com/Piero24/Intelligent-Robotics_project_23-24/tree/main/report_presentation))
+  - Operating different tasks within a simulated space to recognize and maneuver around obstacles while capturing objects
+  - Developed with: C++, ROS, Moveit
 
 <br/>
 
