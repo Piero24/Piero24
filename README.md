@@ -71,6 +71,12 @@
 </p>
 <br/>
 
+🚚 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/Piero24/TSP_Optimization) | [🕹️Demo](https://LINK) | [📄Paper](https://LINK))
+  - Application of different Algorithm to optimize a TSP problem
+  - Developed with: CPLEX, C, Cmake
+
+<br/>
+
 🐙 **HSNet+: Enhancing Polyp Segmentation with Region-wise Loss**: ([🔗Code](https://github.com/Piero24/lossFuncition-4SN) | [🕹️Demo](https://colab.research.google.com/drive/1TEcddIvATuULZxx9QQD3hXsm5ahs0iQv?usp=sharing) | [📄Paper](https://github.com/Piero24/lossFuncition-4SN/blob/master/Pietrobon_Biffis.pdf))
   - Combines the advantages of Transformer networks and CNN, along with regional loss for polyp segmentation
   - Developed with: Python, PyTorch, OpenCV, Numpy
