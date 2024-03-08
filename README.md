@@ -79,7 +79,7 @@
 <br/>
 
 🤖 **Tiago Movement and Object Manipulation With ROS**: ([🔗Code](https://github.com/Piero24/Intelligent-Robotics_project_23-24) | [🕹️Demo](https://github.com/Piero24/Intelligent-Robotics_project_23-24/tree/main/Videos) | [📄Paper](https://github.com/Piero24/Intelligent-Robotics_project_23-24/tree/main/report_presentation))
-  - Operating different tasks within a simulated space to recognize and maneuver around obstacles while capturing objects
+  - Operating tasks within a simulated space to recognize and maneuver around obstacles while capturing objects
   - Developed with: C++, ROS, Moveit
 
 <br/>
