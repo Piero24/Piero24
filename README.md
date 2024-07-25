@@ -72,7 +72,7 @@
 <br/>
 
 
-🚚 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/Piero24/TSP_Optimization) | [🕹️Demo](https://LINK) | [📄Paper]([https://LINK](https://github.com/Piero24/TSP_Optimization/blob/main/Thesis.pdf)))
+🚚 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/Piero24/TSP_Optimization) | [🕹️Demo](https://LINK) | [📄Paper](https://github.com/Piero24/TSP_Optimization/blob/main/Thesis.pdf)
   - Application of different Algorithm to optimize a TSP problem
   - Developed with: CPLEX, C, Cmake
 
