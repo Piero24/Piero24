@@ -72,7 +72,7 @@
 <br/>
 
 
-🏠 **Airbnb clone website**: ([🔗Code](https://github.com/Piero24/airbnb-clone) | [🕹️Demo](https://beautiful-sable-2905de.netlify.app))
+🏠 **Airbnb Clone Website**: ([🔗Code](https://github.com/Piero24/airbnb-clone) | [🕹️Demo](https://beautiful-sable-2905de.netlify.app))
   - Fully responsive Airbnb clone website featuring user authentication, property listings, and booking functionality
   - Developed with: React, TypeScript, Tailwind CSS, MongoDB, Prisma, Next.js, Auth.js
 
