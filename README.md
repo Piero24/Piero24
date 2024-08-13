@@ -72,6 +72,12 @@
 <br/>
 
 
+🏠 **Airbnb clone website**: ([🔗Code](https://github.com/Piero24/airbnb-clone) | [🕹️Demo](https://beautiful-sable-2905de.netlify.app))
+  - Fully functional website replicating Airbnb's core features
+  - Developed with: React, TypeScript, Tailwind CSS, MongoDB, Prisma, Next.js, Auth.js
+
+<br/>
+
 🚚 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/Piero24/TSP_Optimization) | [🕹️Results](https://github.com/Piero24/TSP_Optimization/tree/main/Results) | [📄Paper](https://github.com/Piero24/TSP_Optimization/blob/main/Thesis.pdf))
   - Application of different Algorithm to optimize a TSP problem
   - Developed with: CPLEX, C, Cmake
