@@ -40,7 +40,7 @@
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=8723227&theme=dark&layout=default" alt="piero24 stackoverflow" />
 <br/>
 <ul>
-  <li>🦾 I’m currently learning <strong>Ros</strong> and exploring robotics</li>
+  <li>🦾 I’m currently learning <strong>NLP</strong> and exploring Transformers</li>
   <br>
   <li>🤖 I'm interested in <strong>Machine Learning</strong> and <strong>Deep Learning</strong></li>
   <br>
@@ -71,6 +71,12 @@
 </p>
 <br/>
 
+
+🧠 **VanillaNet Cpp**: ([🔗Code](https://github.com/Piero24/VanillaNet-cpp))
+  - A fully connected Neural Network in C++ with SGD from scratch, achieving **98% accuracy** on the MNIST dataset.
+  - Developed with: C++, Cmake, Deep Learning
+
+<br/>
 
 🏠 **Airbnb Clone Website**: ([🔗Code](https://github.com/Piero24/airbnb-clone) | [🕹️Demo](https://beautiful-sable-2905de.netlify.app))
   - Fully responsive Airbnb clone website featuring user authentication, property listings, and booking functionality
