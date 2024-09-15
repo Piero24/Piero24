@@ -72,7 +72,7 @@
 <br/>
 
 
-🧠 **VanillaNet Cpp**: ([🔗Code](https://github.com/Piero24/VanillaNet-cpp))
+🧠 **VanillaNet Cpp**: ([🔗Code](https://github.com/Piero24/VanillaNet-cpp) | [🕹️Demo](https://colab.research.google.com/drive/1PKhdX0fzxX75JgCNBCbbtW9H_NRVtl_i?usp=sharing))
   - A fully connected Neural Network in C++ with SGD from scratch, achieving **98% accuracy** on the MNIST dataset.
   - Developed with: C++, Cmake, Deep Learning
 
