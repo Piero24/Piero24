@@ -85,7 +85,7 @@
 <br/>
 
 🚚 **Mathematical Optimization of the Traveling Salesman Problem**: ([🔗Code](https://github.com/Piero24/TSP_Optimization) | [🕹️Results](https://github.com/Piero24/TSP_Optimization/tree/main/Results) | [📄Paper](https://github.com/Piero24/TSP_Optimization/blob/main/Thesis.pdf))
-  - Application of different Algorithm to optimize a TSP problem
+  - Application of different Algorithm to optimize a TSP problem achieving solutions within 3% of the optimum
   - Developed with: CPLEX, C, Cmake
 
 <br/>
@@ -109,7 +109,7 @@
 <br/>
 
 🍓 **Food Recognition and Leftover Estimation**: ([🔗Code](https://github.com/Piero24/Food-recognition-and-leftover-estimation) | [🕹️Demo](https://github.com/Piero24/Food-recognition-and-leftover-estimation/tree/main/Results) | [📄Paper](https://github.com/Piero24/Food-recognition-and-leftover-estimation/blob/main/Paper.pdf))
-  - Food recognition and leftover estimation with 95% more accurate performance than the previous version
+  - Food recognition and leftover estimation with **95% more accurate** performance than the previous version
   - Developed with: C++, Cmake, OpenCV
 
 <br/>
