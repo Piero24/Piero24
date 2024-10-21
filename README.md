@@ -65,7 +65,8 @@
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
 <br/>
-<!-- 
+<!-- https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
+<!--
 <p align="center">
   <img style="width:55%; height:auto" src="https://leetcode-badge-showcase.vercel.app/api?username=Piero24&theme=dark&border=no-border&animated=false"/>
 </p>
