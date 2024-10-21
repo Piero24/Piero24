@@ -66,7 +66,7 @@
 <br/>
 <br/>
 <p align="center">
-  <img style="width:25%; height:auto" src="https://leetcode-badge-showcase.vercel.app/api?username=Piero24&theme=dark&border=no-border&animated=true"/>
+  <img style="width:45%; height:auto" src="https://leetcode-badge-showcase.vercel.app/api?username=Piero24&theme=dark&border=no-border&animated=true"/>
 </p>
 <br/>
 <br/>
