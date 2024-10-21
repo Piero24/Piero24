@@ -65,6 +65,10 @@
  <!-- https://octodex.github.com/images/NUX_Octodex.gif -->
 <br/>
 <br/>
+<p align="center">
+  <img style="width:65%; height:auto" src="https://leetcode-badge-showcase.vercel.app/api?username=Piero24&theme=dark&border=no-border&animated=true"/>
+</p>
+<br/>
 <br/>
 <p align="center">
   <h2 align="center">🛠️ Other Project I have worked on 🛠️<a href=""> </a></h2>
